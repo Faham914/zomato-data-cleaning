@@ -1,0 +1,38 @@
+{
+    "original_shape": [
+        101530,
+        12
+    ],
+    "cleaned_shape": [
+        101530,
+        12
+    ],
+    "missing_values_after_cleaning": {
+        "restaurant_name": 0,
+        "dining_rating": 0,
+        "delivery_rating": 0,
+        "dining_votes": 0,
+        "delivery_votes": 0,
+        "cuisine": 0,
+        "place_name": 0,
+        "city": 0,
+        "item_name": 0,
+        "best_seller": 82387,
+        "votes": 0,
+        "prices": 0
+    },
+    "columns": [
+        "restaurant_name",
+        "dining_rating",
+        "delivery_rating",
+        "dining_votes",
+        "delivery_votes",
+        "cuisine",
+        "place_name",
+        "city",
+        "item_name",
+        "best_seller",
+        "votes",
+        "prices"
+    ]
+}
